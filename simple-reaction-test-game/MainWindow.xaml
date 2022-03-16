@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:simple_reaction_test_game"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="600" ResizeMode="CanMinimize">
+        Title="Reaction Test Game" Height="450" Width="600" ResizeMode="CanMinimize">
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="80" />
